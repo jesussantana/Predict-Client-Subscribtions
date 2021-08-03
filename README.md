@@ -3,13 +3,13 @@ DATA SCIENCE CHALLENGE SCL WEEK 3
 Predict Client Subscribtions 
 ============================== 
 
-
 [![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/) [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)  
 
 ---
 
-![Predict Client Subscribtions](https://esmarketingdigital.com/images/subscriptions.png)
+![Predict Client Subscribtions](https://esmarketingdigital.com/images/bank.png)
 
+---
 
 ## Create a predictive algorithm (Machine Learning or Deep Learning) to predict the correct time to buy cardano and the correct time to sell.   
 
